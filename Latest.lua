@@ -5,7 +5,7 @@
 ---\===================================================//---
 
 	Library:		GodLib
-	Version:		1.00
+	Version:		1.01
 	Author:			Devn
 
 ---//==================================================\\---
@@ -17,6 +17,11 @@
 	
 	Version 1.00:
 		- Library re-write.
+		
+	Version 1.01:
+		- Added some champions to priority table.
+		- Fixed error from unknown variable name reading recommended priority.
+		- Added support for ScriptStatus.net.
 
 --]]
 
